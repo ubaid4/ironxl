@@ -3,7 +3,7 @@
 It is extremely simple to write in excel file using IronXL library .It provides the most simplest and easy way to communicate with excel files for .Net developers. Just access the specific cell, where you want to write the value, assign your custom value without any bulk lines of code. 
 
 ## Write Value In Specific Cell:  
-First of all add reference of `IronXL` in your project and import liberary by `Using IronXL`. In the followig case our excel file name is `sample.xlsx` and it exists in `bin>Debug` folder of the project
+First of all add reference of `IronXL` in your project and import liberary by `Using IronXL`. In the followig case our excel file name is `sample.xlsx` and it exists in `bin>Debug` folder of the project.
 ```CSharp
 using IronXL;
 
