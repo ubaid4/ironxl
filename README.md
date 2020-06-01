@@ -1,5 +1,5 @@
 # What is IronXL?
-[IronXL](https://ironsoftware.com/csharp/excel/) is an Excel library for .NET developers which provides the easiest way to communicate with Excel(XLS, XLSX, CSV and TSV ) files, without any dependencie, even without using `Microsoft.Office.Interop.Excel` library and installation of  `Microsoft Office` on target machine.You can get rid of a lot of complicated lines of code and can use `IronXL` to get the easiest way. It provides all type of functions which can be required by developer e.g:
+[IronXL](https://ironsoftware.com/csharp/excel/) is an Excel library for .NET developers which provides the easiest way to communicate with Excel(XLS, XLSX, CSV and TSV ) files, without any dependencie, even without using `Microsoft.Office.Interop.Excel` library or installation of  `Microsoft Office` on target machine.You can get rid of a lot of complicated lines of code and can use `IronXL` to get the easiest way. It provides all type of functions which can be required by developer e.g:
 * Create new Excel file, insert data programmatically using Excel functions and set the style (font,color,bold,italic and other cell properties) as well.
 * Import Excel file in the project ,use its data effectively and manipulate it programmatically.
 * Behave with Excel file as Dataset and Datatables.
